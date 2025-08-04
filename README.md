@@ -34,7 +34,13 @@
 
 ---
 
-## 4. Java
+## 4. Repos Git pépites 
+
+- [100 projets HTML CSS JS](https://github.com/solygambas/html-css-javascript-projects/)
+
+---
+
+## 5. Java
 
 - [Java Roadmap (roadmap.sh)](https://roadmap.sh/java)
 - [Openclassrooms](https://openclassrooms.com/fr/courses/8383791-apprenez-a-programmer-en-java) - Apprenez à programmer en Java
@@ -43,7 +49,7 @@
 
 ---
 
-## 5. PHP & MySQL
+## 6. PHP & MySQL
 
 - [OpenClassrooms](https://openclassrooms.com/fr/courses/918836-concevez-votre-site-web-avec-php-et-mysql) - Concevez votre site web avec PHP et MySQL
 - [PHP et MySQL - w3shools](https://www.w3schools.com/php/default.asp)
@@ -51,9 +57,5 @@
 - [MySQL pour les débutants](https://youtu.be/yPu6qV5byu4)
 
 ---
-
-## 4. Repos Git pépites 
-
-- [100 projets HTML CSS JS](https://github.com/solygambas/html-css-javascript-projects/)
 
 > 💡 *Astuce : avance de manière progressive, un bloc à la fois. Note ce que tu comprends, pratique sur des mini projets, et garde ce fichier comme référence. Je le mettrai à jour régulièrement !!*
