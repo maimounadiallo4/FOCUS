@@ -30,6 +30,7 @@
 - [Git - w3shools](https://www.w3schools.com/git/default.asp)
 - [Apprendre Git avec Visual Studio Code (YouTube – Grafikart)](https://youtu.be/pg19Z8LL06w)  
 - [Guide GitHub officiel pour les débutants](https://docs.github.com/fr/get-started/quickstart)
+- [Résoudre un merge conflict directement dans l'éditeur de code](https://youtu.be/ecyc6GQNgRc?si=8SR_oUwmYyqH6d92)
 
 ---
 
