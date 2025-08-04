@@ -52,4 +52,8 @@
 
 ---
 
+## 4. Repos Git pépites 
+
+- [100 projets HTML CSS JS](https://github.com/solygambas/html-css-javascript-projects/)
+
 > 💡 *Astuce : avance de manière progressive, un bloc à la fois. Note ce que tu comprends, pratique sur des mini projets, et garde ce fichier comme référence. Je le mettrai à jour régulièrement !!*
